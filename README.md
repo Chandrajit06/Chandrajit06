@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Chandrajit Saha
+# Hi, I'm Chandrajit Saha
 **A passionate Full-Stack Developer from India**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Chandrajit06&label=Profile%20views&color=0e75b6&style=flat" alt="alamimran613" /> </p>

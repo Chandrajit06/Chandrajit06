@@ -1,7 +1,7 @@
 # Hi, I'm Chandrajit Saha
 **A passionate Full-Stack Developer from India**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Chandrajit06&label=Profile%20views&color=0e75b6&style=flat" alt="alamimran613" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Chandrajit06&label=Profile%20views&color=0e75b6&style=flat" alt="Chandrajit06" /> </p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chandrajitsaha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chandrajit720@gmail.com) 
